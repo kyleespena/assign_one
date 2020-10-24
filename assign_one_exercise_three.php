@@ -35,4 +35,4 @@
         }
         echo "GCD of $Num1 and $Num2 is $gcd";
     }
-?>
+?> 
